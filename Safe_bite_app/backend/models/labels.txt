@@ -1,0 +1,12 @@
+banana
+apple
+orange
+rice
+chapati
+dosa
+pizza
+burger
+idli
+pasta
+salad
+...
